@@ -16,7 +16,7 @@ intents = nextcord.Intents.default()
 intents.message_content = True
 intents.members = True
 token = "INSERT TOKEN"
-client_id = "1033038872357109892"
+client_id = "INSERT CLIENT ID"
 bot = commands.Bot(command_prefix="[", intents=intents, help_command=None)
 intents = nextcord.Intents.default()
 intents.message_content = True
