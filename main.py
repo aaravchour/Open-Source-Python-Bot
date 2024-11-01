@@ -15,7 +15,7 @@ cursor.execute(
 intents = nextcord.Intents.default()
 intents.message_content = True
 intents.members = True
-token = "MTIzMTMyNzQyMDI5MzA1ODczMQ.GVIp_p.3k0HiaFun_Tj8OxmKNuFnMV_KfKlZ0qaxv21wI"
+token = ""
 client_id = "1033038872357109892"
 bot = commands.Bot(command_prefix="[", intents=intents, help_command=None)
 intents = nextcord.Intents.default()
